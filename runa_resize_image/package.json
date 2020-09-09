@@ -1,0 +1,19 @@
+{
+  "name": "runa_resize_image",
+  "version": "1.0.0",
+  "description": "Resize image from S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lambda"
+  ],
+  "author": "andres.macagno@runahr.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "sharp": "^0.26.0"
+  }
+}
